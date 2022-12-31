@@ -1,0 +1,3 @@
+B21xxxx001/IT`Information Technology/F.CS101_Program Start_3,98/F.IT101_Major Start_1,98/S.MT101_Math 1_3,67/F.CS202_OOP_3,86
+B21xxxx002/SW`Software/F.CS101_Program Start_3,98/S.MT101_Math 1_3,87/S.MT102_Math 2_3,76/S.PH101_Physic 1_3,100
+B21xxxx003/CS`Computer Science/F.CS101_Program Start_3,56/F.IT101_Major Start_1,34/S.MT102_Math 2_3,32/S.MT101_Math 1_3,98/S.PH101_Physic 1_3,23

@@ -1,0 +1,7 @@
+IT`Information Technology
+SW`Software
+DA`Data Analyst
+CS`Computer Science
+IS`Information System
+AI`Artificial Intelligence
+TT`Test

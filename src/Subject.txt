@@ -1,0 +1,9 @@
+F.CS101_Program Start_3
+F.IT101_Major Start_1
+S.MT101_Math 1_3
+S.MT102_Math 2_3
+S.PH101_Physic 1_3
+S.PH102_Physic 2_3
+F.CS202_OOP_3
+F.CS203_Data Structure_3
+T_Test_3
